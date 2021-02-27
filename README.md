@@ -13,3 +13,6 @@ Attributes assessed to classify into Benign and Malignant cancer cases are:
         - concave points (number of concave portions of the contour)
         - symmetry 
         - fractal dimension ("coastline approximation" - 1)
+
+**Tools & Libraries**: Jupyter Notebook, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, SVM, 
+Cross Validation, Grid Search
